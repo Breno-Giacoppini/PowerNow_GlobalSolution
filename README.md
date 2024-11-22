@@ -1,12 +1,5 @@
 # **PowerNow**
 
-## **1. Introdução**
-
-O mercado de energia solar no Brasil está em ascensão, consolidando-se como uma das fontes mais promissoras da matriz energética nacional. Dados recentes indicam que o país atingiu **44 GW** de capacidade instalada no primeiro semestre de 2024, tornando a energia solar a segunda maior fonte elétrica brasileira. 
-
-Inspirados nesse crescimento, desenvolvemos o **PowerNow**, uma solução que alia tecnologia e sustentabilidade para maximizar a eficiência da energia solar. O sistema utiliza o ESP32 para monitorar e simular condições de captação solar, integrando esses dados à plataforma **Thinger.io**. Além disso, temos planos de criar um aplicativo com inteligência artificial para previsões otimizadas e sugestões personalizadas.
-
----
 ## Integrantes
 
 - **Breno Giacoppini Câmara** - RM98695
@@ -15,11 +8,18 @@ Inspirados nesse crescimento, desenvolvemos o **PowerNow**, uma solução que al
 - **Matheus Oliveira Macedo** - RM551155
 - **Victor Freitas Silva** - RM99982
 
----
 ## Demonstração em Vídeo
 
 Assista à demonstração no YouTube: 
 
+---
+## **1. Introdução**
+
+O mercado de energia solar no Brasil está em ascensão, consolidando-se como uma das fontes mais promissoras da matriz energética nacional. Dados recentes indicam que o país atingiu **44 GW** de capacidade instalada no primeiro semestre de 2024, tornando a energia solar a segunda maior fonte elétrica brasileira. 
+
+Inspirados nesse crescimento, desenvolvemos o **PowerNow**, uma solução que alia tecnologia e sustentabilidade para maximizar a eficiência da energia solar. O sistema utiliza o ESP32 para monitorar e simular condições de captação solar, integrando esses dados à plataforma **Thinger.io**. Além disso, temos planos de criar um aplicativo com inteligência artificial para previsões otimizadas e sugestões personalizadas.
+
+---
 ## **2. Objetivo**
 
 O **PowerNow** tem como principais objetivos:
