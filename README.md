@@ -120,6 +120,9 @@ O cálculo da energia gerada foi feito com base na fórmula:
 \text{Energia Gerada (kWh)} = \text{Irradiação (kW/m²)} \times \left( \frac{\text{Eficiência}}{100} \right) \times \text{Área (m²)} \times \text{Horas de Pico Solar}
 \]
 
+![Formula 1](https://github.com/user-attachments/assets/2ca44bb3-26ae-4457-b25a-c80722f1e14e)
+
+
 No seu caso, a área considerada implicitamente foi 1 m² e as horas de pico solar foram fixadas em 4 horas.
 
 Substituindo os valores:
@@ -127,6 +130,9 @@ Substituindo os valores:
 \[
 0.87 \times \left( \frac{16}{100} \right) \times 1 \times 4 = 0.5568 \, \text{kWh}
 \]
+
+![Formula 2](https://github.com/user-attachments/assets/69ca8334-b250-4721-9932-4c9c844a1935)
+
 
 O valor resultante de **0.56 kWh** está correto e é coerente com as condições simuladas.
 
