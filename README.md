@@ -7,6 +7,18 @@ O mercado de energia solar no Brasil está em ascensão, consolidando-se como um
 Inspirados nesse crescimento, desenvolvemos o **PowerNow**, uma solução que alia tecnologia e sustentabilidade para maximizar a eficiência da energia solar. O sistema utiliza o ESP32 para monitorar e simular condições de captação solar, integrando esses dados à plataforma **Thinger.io**. Além disso, temos planos de criar um aplicativo com inteligência artificial para previsões otimizadas e sugestões personalizadas.
 
 ---
+## Integrantes
+
+- **Breno Giacoppini Câmara** - RM98695
+- **Jaqueline Martins dos Santos** - RM551744
+- **Mariana Bastos Esteves** - RM97510
+- **Matheus Oliveira Macedo** - RM551155
+- **Victor Freitas Silva** - RM99982
+
+---
+## Demonstração em Vídeo
+
+Assista à demonstração no YouTube: 
 
 ## **2. Objetivo**
 
